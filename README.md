@@ -1,1 +1,1 @@
-https://ankhly.github.io/rsschool-cv/cv.md
+https://ankhly.github.io/rsschool-cv/
